@@ -1,0 +1,7 @@
+{
+"name": "yelp",
+"description": "a barebones app to use the yelp API",
+"repository": "https://github.com/punknight16/yelp_api.git",
+"logo": "http://www.punknight.com",
+"keywords": ["php", "heroku", "iOS"]
+}
